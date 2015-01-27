@@ -1,0 +1,1 @@
+C:\xampp\htdocs\laravel/resources/views/nerds/index.blade.php
